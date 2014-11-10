@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  file: MyString
+  user_id: 1
+  filter_img: MyString
+
+two:
+  file: MyString
+  user_id: 1
+  filter_img: MyString
